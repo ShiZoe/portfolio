@@ -20,7 +20,7 @@
 
 [![GitHub forks](https://img.shields.io/github/forks/shizoe/portfolio?style=for-the-badge)](https://github.com/shizoe/portfolio/network)
 [![GitHub license](https://img.shields.io/github/license/shizoe/portfolio?style=for-the-badge)](https://github.com/shizoe/portfolio/blob/master/LICENSE)
-[![Linkedin](https://u.realgeeks.media/portlandonthemarket/linkedin-icon.png)](https://https://www.linkedin.com/in/mabo-mbebeta/)
+<!--[![Linkedin](https://u.realgeeks.media/portlandonthemarket/linkedin-icon.png)](https://https://www.linkedin.com/in/mabo-mbebeta/)-->
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=14.17.3&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=7.19.1&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
