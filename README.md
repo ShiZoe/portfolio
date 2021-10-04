@@ -139,4 +139,4 @@ Contributions are what make the open source community such an amazing place to l
 <!-- LICENSE -->
 # License
 
-Distributed under the `MIT` License. See [LICENSE](https://github.com/hashirshoaeb/shizoe/blob/main/LICENSE) for more information.
+Distributed under the `MIT` License. See [LICENSE](https://github.com/shizoe/portfolio/blob/main/LICENSE) for more information.
