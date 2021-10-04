@@ -4,7 +4,7 @@
   <h1 align="center">Developer's Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
+    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my work.
     <br />
     <strong>Site URL / Demo » </strong>
     <a href="https://shizoe.github.io/portfolio"> shizoe.github.io/portfolio</a>
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-[![Product Name Screen Shot](/READMEdocs/screenshot.gif)](https://example.com)
+
 
 There are many portfolio website templates available on Github, however, I didn't find one that really suit my needs so I created this one. A simple, easy to configure, lightweight, and responsive static portfolio website.
 
