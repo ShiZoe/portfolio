@@ -7,7 +7,7 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my work.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://shizoe.github.io/portfolio"> shizoe.github.io/portfolio</a>
+    <a href="https://portfolio.mabombebeta.ml"> shizoe.github.io/portfolio</a>
     <br />
     <br />
     <a href="https://mabombebeta.me">About Me</a>
